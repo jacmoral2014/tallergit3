@@ -14,6 +14,6 @@ public class JavaApplication46 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Mi primer commit");
+        System.out.println("Mi segundo commit");
     }
 }
